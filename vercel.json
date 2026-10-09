@@ -9,7 +9,22 @@
       "permanent": true
     },
     {
+      "source": "/articles/my-journey-with-the-proof-collective-early-nft-adoption-community-building-and-networking-with-industry-leaders",
+      "destination": "/articles/proof-collective",
+      "permanent": true
+    },
+    {
+      "source": "/professional/my-journey-with-the-proof-collective-early-nft-adoption-community-building-and-networking-with-industry-leaders",
+      "destination": "/articles/proof-collective",
+      "permanent": true
+    },
+    {
       "source": "/articles/how-innovative-thinking-transformed-our-email-marketing-success-at-instant-channel-11c4cfc276c380b18071c842cad8b5c2",
+      "destination": "/articles/crm-strategy-instant-channel",
+      "permanent": true
+    },
+    {
+      "source": "/How-Innovative-Thinking-Transformed-Our-Email-Marketing-Success-at-Instant-Channel-11c4cfc276c380b18071c842cad8b5c2",
       "destination": "/articles/crm-strategy-instant-channel",
       "permanent": true
     }

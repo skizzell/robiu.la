@@ -10,10 +10,12 @@
 - Instant Channel: employee number three, helped build InstantIQ (a proprietary email SaaS) and helped scale the company to about $35M and an acquisition
 - Rocket Media: founded and ran his own CRM and lifecycle agency for six years
 - Started in IT and systems, then moved into email and marketing ops, including a run as an Email Marketing Director
+- Web3: founding member of PROOF Collective (Kevin Rose's NFT collective, later acquired by Yuga Labs) and of Skylab
 - Focus: demand gen and ABM, lifecycle and reactivation across email and SMS, CRM and campaign ops, and reporting tied to closed business
 
 ## Writing
 
+- [My Journey with the PROOF Collective: Early NFT Adoption, Community Building, and Networking with Industry Leaders](https://robiu.la/articles/proof-collective): As an early member of PROOF Collective, I navigated the explosive growth of NFTs, forged relationships with industry leaders, and played a role in shaping projects like Grails and Moonbirds. Here's my story about spotting opportunities early and building community. Published March 10, 2025.
 - [How CRM Strategy and Innovative Thinking Transformed Our Email Marketing Success at Instant Channel](https://robiu.la/articles/crm-strategy-instant-channel): Falling inbox placement and a CRM that didn't talk to our email tools. Here's how we fixed both at Instant Channel, and what it did for revenue. Published October 1, 2024.
 
 ## Elsewhere

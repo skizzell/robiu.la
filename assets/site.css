@@ -236,7 +236,7 @@ a { color: inherit; }
 .text-link:hover .icon--next, .btn:hover .icon--next { transform: translateX(3px); }
 .text-link:hover .icon--out, .btn:hover .icon--out { transform: translate(2px, -2px); }
 
-.prose a, .lede a, .hero__lede a {
+.prose a, .lede a, .hero__lede a, .article-body a {
   color: inherit;
   text-decoration-line: underline;
   text-decoration-color: var(--rust);
@@ -244,7 +244,7 @@ a { color: inherit; }
   text-underline-offset: 0.18em;
   transition: color 0.15s ease;
 }
-.prose a:hover, .lede a:hover, .hero__lede a:hover { color: var(--rust-strong); }
+.prose a:hover, .lede a:hover, .hero__lede a:hover, .article-body a:hover { color: var(--rust-strong); }
 
 /* ---------- Hero ---------- */
 .hero { padding-block: var(--space-9) var(--space-8); }
@@ -401,6 +401,7 @@ a { color: inherit; }
 .article-card:hover .text-link { color: var(--rust-strong); }
 .article-card:hover .icon--next { transform: translateX(3px); }
 @media (max-width: 480px) { .article-card { padding: var(--space-5); } }
+.article-cards { display: flex; flex-direction: column; gap: var(--space-5); }
 
 /* ---------- Contact block (inverted) ---------- */
 .contact { background: var(--inverse); color: var(--on-inverse); padding-block: var(--space-9); }
@@ -516,6 +517,12 @@ a { color: inherit; }
 .article-body li { position: relative; padding-left: 1.4em; }
 .article-body li::before { content: ""; position: absolute; left: 0.2em; top: 0.7em; width: 6px; height: 6px; background: var(--rust); }
 .article-body strong { font-weight: 600; }
+.article-body > .article-figure { margin-block: 2em; }
+.article-figure img { display: block; width: 100%; height: auto; background: var(--paper-deep); }
+.article-figure--narrow img { max-width: 360px; }
+.article-figure--pixel img { image-rendering: pixelated; }
+.article-figure figcaption { margin-top: var(--space-3); font-style: italic; font-size: 15px; line-height: 1.45; color: var(--ink-muted); }
+.article-figure figcaption a { text-decoration-color: var(--rule); }
 .dropcap::first-letter {
   float: left;
   font-size: 4.15em;
